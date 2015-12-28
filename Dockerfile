@@ -1,4 +1,4 @@
-FROM debian:jessie
+FROM armbuild/debian:jessie
 MAINTAINER Rafael Römhild <rafael@roemhild.de>
 
 ENV EJABBERD_BRANCH 15.11
